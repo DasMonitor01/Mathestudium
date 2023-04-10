@@ -1,0 +1,1 @@
+$A = |\intg_{-3}^{-2} \sin\left( \frac{\pi}{2} x\right)dx| + |\intg_{-2}^{0} \sin\left( \frac{\pi}{2} x\right)dx| + |\intg_{0} ^{1} \sin\left( \frac{\pi}{2} x\right)dx|$

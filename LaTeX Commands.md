@@ -1,0 +1,37 @@
+$\without{}$ = "\\without"$\newcommand{\without}{\backslash}$
+$\emptyset =$ "\\es"$\newcommand{\es}{\emptyset}$
+$\nin =$ "\\nin"$\newcommand{\nin}{\notin}$
+$\R =$ "\\R"$\newcommand{\R}{\mathbb R}$
+$\N=$ "\\N"$\newcommand{\N}{\mathbb N}$
+$\Z =$ "\\Z" $\newcommand{\Z}{\mathbb Z}$
+$\Q =$ "\\Q" $\newcommand{\Q}{\mathbb Q}$
+$\C =$ "\\C" $\newcommand{\C}{\mathbb C}$
+$\infi =$ "\\infi" $\newcommand{\infi}{\infty}$
+$\onto =$ "\\onto" $\newcommand{\onto}{\mapsto}$
+$\limit =$ "\\limit" oder "\\Lim"$\newcommand{\limit}{\displaystyle\lim}$ $\newcommand{\Lim}{\displaystyle \lim}$
+$\E =$ "\\E" $\newcommand{\E}{\ \exists}$ 
+$\F =$ "\\F" $\newcommand{\F}{\ \forall}$
+$\contrana =$ "\\contraAna" $\newcommand{\contrana}{\rightarrow \leftarrow}$ 
+$\contraLA =$ "\\contraLA" $\newcommand{\contraLA}{⭍}$
+$\Sum =$ "\\Sum" $\newcommand{\Sum}{\displaystyle\sum}$
+"\\displaystyle" = "\\d" $\newcommand{\d}{\displaystyle}$
+$\times =$ "\\x" oder "\\cross" $\newcommand{\x}{\times}$ $\newcommand{\cross}{\times}$ 
+$\textasciitilde =$ "\\tilde" $\newcommand{\tilde}{\textasciitilde}$ 
+$\Frac{p}{q} =$ "\\Frac{p}{q}" $\newcommand{\Frac}{\displaystyle \frac}$ 
+$\P =$ "\\P" $\newcommand{\P}{\mathcal P}$ 
+$\invers p =$ "\\invers {p}" oder "\\inv {p}" $\newcommand{\invers}[1]{{#1}^{-1}}$  $\newcommand{\inv}[1]{\invers {#1}}$
+$\plusminus =$ "\\plusminus" $\newcommand{\plusminus}{^+_-}$ 
+$\limnin =$ "\limnin" oder "\limin" $\newcommand{\limnin}{\displaystyle \lim_{n \to \infi}}$ $\newcommand{\limin}{\displaystyle \lim_{n \to \infi}}$ 
+$\Prod =$ "\Prod" $\newcommand{\Prod}{\d\prod}$ 
+$\Infsum{p} =$ "\\Infsum {p}" $\newcommand{\Infsum}[1]{\displaystyle\sum_{#1 = 1}^\infi}$
+$\infsum =$ "\infsum" $\newcommand{\infsum}{\displaystyle \sum_{k = 0}^{\infty} }$ 
+$\Limin{p} =$ "\Limin {p}" $\newcommand{\Limin}[1]{\displaystyle \lim_{#1 \to \infty}}$ 
+$\RA =$ "\\RA" $\newcommand{\RA}{\Rightarrow}$ 
+$\bs =$ "\\bs" $\newcommand{\bs}{\blacksquare}$
+$\LA =$ "\\LA" $\newcommand{\LA}{\Leftarrow}$ 
+$\LRA =$ "\\LRA" $\newcommand{\LRA}{\Leftrightarrow}$ 
+$\K =$ "\\K" $\newcommand{\K}{\mathbb K}$
+$\epta =$ "\\epta" $\newcommand{\epta}{\forall \varepsilon > 0\ \exists \delta > 0 :}$ 
+$\intg =$ "\\intg" $\newcommand{\intg}{\displaystyle \int}$ 
+$\lint =$ "\\lint" $\newcommand{\lint}{\stackrel{\int_{a}^{b}}\_}$ 
+$\uint =$ "\\uint" $\newcommand{\uint}{\stackrel{-}\int_{a}^{b}}$ 
